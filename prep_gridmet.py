@@ -17,7 +17,7 @@ import rioxarray  # registers the .rio accessor used below
 # var_name = "pr"
 var_name = "etr"
 data_dir = r"C:\Users\flipl\OneDrive - Cal Poly\NR3320\data\gridmet"
-out_dir = r"C:\Users\flipl\OneDrive - Cal Poly\NR3320_share\2026F\1_watershed_water_balance_lab"
+out_dir = r"C:\Users\flipl\OneDrive - Cal Poly\NR3320_share\2026F\1_watershed_water_balance_lab\gridmet_data"
 water_years = [2023, 2024, 2025]
 # ================================
 
